@@ -1,0 +1,91 @@
+[{
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"key": "6f57967f-8ea8-423e-958c-0e2e623c891c",
+		"contentType": "LIVE",
+		"country": "AR"
+	}, {
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"key": "94613dc5-4f89-4588-a54f-71dafd5824ee",
+		"country": "AE",
+		"platform": "MOBILE_HLS"
+	}, {
+		"isRuleEnabled": true,
+		"channelId": 1017,
+		"platform": "BIG_SCREEN_DASH",
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"key": "4ebc688a-78fe-422d-b871-aa8a397bb638",
+		"contentType": "LIVE",
+		"country": "BG",
+		"packagingType": "HLS"
+	}, {
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"key": "a6547bb8-5ee6-442e-b5ab-299e82501c4d",
+		"platform": "MOBILE_DASH"
+	}, {
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"channelId": 1001,
+		"key": "44d74741-bc89-45d2-9fed-158bbde76093"
+	}, {
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"key": "2aef28bc-3895-4dab-8fa1-084541df9d4d",
+		"country": "AE"
+	}, {
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"channelId": 1017,
+		"key": "198a5b6d-5fd1-43e6-83aa-954ae7c88bde",
+		"country": "AE"
+	}, {
+		"isRuleEnabled": true,
+		"channelId": 1020,
+		"platform": "TABLET_DASH",
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"key": "323da0ef-bf35-46cf-a8e8-a317f97971b7",
+		"country": "BB"
+	}, {
+		"cdnConfig": [{
+			"cdn": "AKAMAI",
+			"percentageLower": 0,
+			"percentageUpper": 100
+		}],
+		"isRuleEnabled": true,
+		"key": "2f925077-8d7e-457b-b440-96b8e5bf3f5a",
+		"country": "AT"
+	}]
